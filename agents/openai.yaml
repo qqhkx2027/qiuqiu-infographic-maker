@@ -1,5 +1,5 @@
 interface:
   display_name: "秋秋信息图制作器"
-  short_description: "把学习主题整理成结构清晰、可直接跑图的中文信息图提示词"
-  brand_color: "#79BFC5"
-  default_prompt: "使用 $qiuqiu-infographic-maker，把我想学习的主题整理成一张康奈尔笔记信息图。"
+  short_description: "生成康奈尔笔记与高级咨询风中文信息图提示词并支持直接跑图"
+  brand_color: "#213A5C"
+  default_prompt: "使用 $qiuqiu-infographic-maker，把我的主题整理成合适的信息图提示词。"
