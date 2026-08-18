@@ -63,7 +63,7 @@ description: 把学习主题、文章、知识资料或商业议题整理成内�
 4. 修改后运行：
 
    ```bash
-   python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py .
+   python3 tools/validate_skill.py .
    ```
 
 ## 文件导航
