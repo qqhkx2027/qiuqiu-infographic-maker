@@ -72,5 +72,5 @@ qiuqiu-infographic-maker/
 4. 运行技能校验：
 
    ```bash
-   python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py .
+   python3 tools/validate_skill.py .
    ```
